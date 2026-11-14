@@ -1,0 +1,13 @@
+
+My First GitHub File
+
+I am learning Git and GitHub.
+
+This is my first practical file upload.
+
+My objective is to use GitHub for:
+1. Academic research
+2. R programming
+3. Python programming
+4. Statistical analysis
+5. Research collaboration
